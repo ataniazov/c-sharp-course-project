@@ -1,0 +1,9 @@
+{
+  "name": "TSL2561",
+  "version": "1.0.0",
+  "description": "Non-blocking TSL2561 (GY-2561) light sensor driver for Arduino-ESP32 v2",
+  "repository": { "type": "git", "url": "https://example.local/TSL2561_NonBlocking.git" },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

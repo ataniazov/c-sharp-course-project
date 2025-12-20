@@ -1,0 +1,11 @@
+{
+  "name": "LEDPWM",
+  "version": "1.0.0",
+  "description": "ESP32-C3 LED brightness control via LEDC PWM (non-blocking) with status query.",
+  "keywords": ["esp32", "esp32-c3", "pwm", "led", "ledc"],
+  "repository": { "type": "git", "url": "https://example.com/LEDPWM.git" },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": ["espressif32"],
+  "examples": ["examples/BasicUsage.ino"]
+}

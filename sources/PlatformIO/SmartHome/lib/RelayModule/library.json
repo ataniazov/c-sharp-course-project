@@ -1,0 +1,10 @@
+{
+  "name": "RelayModule",
+  "version": "1.0.0",
+  "description": "Non-blocking relay driver for ESP32-C3 (Arduino core v2+).",
+  "keywords": ["relay", "esp32-c3", "nonblocking"],
+  "repository": { "type": "git", "url": "https://example.invalid/RelayModule.git" },
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "examples": [ "examples/BasicUsage.ino" ]
+}

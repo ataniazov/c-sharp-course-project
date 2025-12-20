@@ -1,0 +1,10 @@
+{
+  "name": "RainDrop",
+  "version": "1.0.0",
+  "description": "Non-blocking raindrop sensor library for ESP32-C3 (Arduino-ESP32 v2)",
+  "keywords": "esp32-c3, raindrop, rain, sensor, non-blocking",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "license": "MIT",
+  "examples": "examples/BasicUsage.ino"
+}
